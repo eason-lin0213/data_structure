@@ -19,9 +19,9 @@ async def process_chunk(chunk, start_idx, total_records, model_client, terminati
     處理單一批次資料：
       - 將該批次資料轉成 dict 格式
       - 組出提示，要求各代理人根據該批次資料進行分析，
-        並提供寶寶照護建議。
+        並提供球員選拔建議。
       - 請 MultimodalWebSurfer 代理人利用外部網站搜尋功能，
-        搜尋最新寶寶照護建議資訊（例如餵食、睡眠、尿布更換等），
+        找出最新的球員選拔標準與數據分析方法（如 PER、WS、BPM 等），
         並將搜尋結果納入建議中。
       - 收集所有回覆訊息並返回。
     """
