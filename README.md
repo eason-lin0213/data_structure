@@ -3,7 +3,7 @@
 ### [籃球員數據csv檔](https://github.com/eason-lin0213/data_structure/blob/main/basketball_stats.csv)
 ### [建立各代理人團隊，並要求各代理人根據該批次資料進行分析，並提供球員選拔建議](https://github.com/eason-lin0213/data_structure/blob/main/dataAgent.py)
 ### [對話結果](https://github.com/eason-lin0213/data_structure/blob/main/all_conversation_log.csv)
-### https://github.com/eason-lin0213/data_structure/blob/main/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E4%BD%9C%E6%A5%AD1.jpg
+### ![image](https://github.com/eason-lin0213/data_structure/blob/main/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E4%BD%9C%E6%A5%AD1.jpg)
 ---
 ## 功能介紹
 
