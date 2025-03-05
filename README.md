@@ -16,4 +16,10 @@
   - **UserProxyAgent**：模擬使用者參與對話。  
   團隊以輪詢方式進行對話，直到對話中出現 `"exit"` 關鍵字為止。
 
+- **多代理人檔案 I/O 範例（dataAgent.py）**  
+  利用 AutoGen 框架建立一個多代理人團隊：
+  - **DataAgent** 與 **MultimodalWebSurfer**：分別負責 CSV 資料分析、外部資訊檢索與問題解答。
+  - **UserProxyAgent**：模擬使用者參與對話。  
+  團隊以輪詢方式進行對話，直到對話中出現 `"exit"` 關鍵字為止。
+
 ---
