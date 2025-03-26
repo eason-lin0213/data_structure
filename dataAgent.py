@@ -14,6 +14,7 @@ from autogen_ext.agents.web_surfer import MultimodalWebSurfer
 
 load_dotenv()
 
+#HW1prompt 更改
 async def process_chunk(chunk, start_idx, total_records, model_client, termination_condition):
     """
     處理單一批次資料：
@@ -80,6 +81,7 @@ async def main():
     
     termination_condition = TextMentionTermination("exit")
     
+    #CSV檔更改
     # 使用 pandas 以 chunksize 方式讀取 CSV 檔案
     csv_file_path = "basketball_stats.csv"
     chunk_size = 1000
