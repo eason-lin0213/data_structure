@@ -6,10 +6,10 @@
 ### ![image](https://github.com/eason-lin0213/data_structure/blob/main/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E4%BD%9C%E6%A5%AD1.jpg)
 ---
 ## HW2 DRai相關程式碼作業
-### [體育賽事播報csv檔]
-### [評分完csv檔]
-### [HW2程式碼]
-![image](https://github.com/user-attachments/assets/0f218f77-c98c-4853-bb1b-c4007e265994)
+### [體育賽事播報csv檔](https://github.com/eason-lin0213/data_structure/blob/main/sports_commentary.csv)
+### [評分完csv檔](https://github.com/eason-lin0213/data_structure/blob/main/sports_commentary_batch.csv)
+### [HW2程式碼](https://github.com/eason-lin0213/data_structure/blob/main/DRai.py)
+### ![image](https://github.com/user-attachments/assets/0f218f77-c98c-4853-bb1b-c4007e265994)
 
 ---
 ## 功能介紹
