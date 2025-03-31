@@ -10,6 +10,10 @@
 ### [評分完csv檔](https://github.com/eason-lin0213/data_structure/blob/main/sports_commentary_batch.csv)
 ### [HW2程式碼](https://github.com/eason-lin0213/data_structure/blob/main/DRai.py)
 ### ![image](https://github.com/user-attachments/assets/0f218f77-c98c-4853-bb1b-c4007e265994)
+---
+## HW3 playwright控制瀏覽器
+### [HW3程式碼](https://github.com/eason-lin0213/data_structure/blob/main/postAI.py)
+### ![image](https://github.com/user-attachments/assets/f68120c5-b736-4e19-8de7-8713128073eb)
 
 ---
 ## 功能介紹
