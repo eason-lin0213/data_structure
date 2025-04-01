@@ -18,6 +18,14 @@
 ### ![image](https://github.com/user-attachments/assets/f68120c5-b736-4e19-8de7-8713128073eb)
 
 ---
+## HW4
+### ![image](https://github.com/user-attachments/assets/3a0a0385-3481-4a0a-a97e-7957758a112d)
+### ![image](https://github.com/user-attachments/assets/ed8dc078-089e-4ea7-84d4-997b25c1c76d)
+### ![image](https://github.com/user-attachments/assets/9f63bdbd-0282-4394-8339-7e6c3faae62c)
+
+
+
+---
 ## 功能介紹
 
 - **單一查詢範例（main.py）**  
