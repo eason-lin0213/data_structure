@@ -19,6 +19,8 @@
 
 ---
 ## HW4
+### [HW4程式碼](https://github.com/eason-lin0213/data_structure/blob/main/getPDF.py)
+### [HW4生成PDF檔](https://github.com/eason-lin0213/data_structure/blob/main/report_20250401_203801.pdf)
 ### ![image](https://github.com/user-attachments/assets/3a0a0385-3481-4a0a-a97e-7957758a112d)
 ### ![image](https://github.com/user-attachments/assets/ed8dc078-089e-4ea7-84d4-997b25c1c76d)
 ### ![image](https://github.com/user-attachments/assets/9f63bdbd-0282-4394-8339-7e6c3faae62c)
