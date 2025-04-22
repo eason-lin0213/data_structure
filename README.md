@@ -18,12 +18,20 @@
 ### ![image](https://github.com/user-attachments/assets/f68120c5-b736-4e19-8de7-8713128073eb)
 
 ---
-## HW4
+## HW4 生成PDF
 ### [HW4程式碼](https://github.com/eason-lin0213/data_structure/blob/main/getPDF.py)
 ### [HW4生成PDF檔](https://github.com/eason-lin0213/data_structure/blob/main/report_20250401_203801.pdf)
 ### ![image](https://github.com/user-attachments/assets/3a0a0385-3481-4a0a-a97e-7957758a112d)
 ### ![image](https://github.com/user-attachments/assets/ed8dc078-089e-4ea7-84d4-997b25c1c76d)
 ### ![image](https://github.com/user-attachments/assets/9f63bdbd-0282-4394-8339-7e6c3faae62c)
+
+---
+## HW5 前端畫面
+### [HW5程式碼](https://github.com/eason-lin0213/data_structure/tree/main/EMO)
+### ![image]((https://github.com/user-attachments/assets/472c78ee-a66c-4f29-8831-cf9150bcca64)
+### ![image](https://github.com/user-attachments/assets/08b5f797-185b-4300-91c5-611528b47113)
+)
+)
 
 
 
