@@ -28,7 +28,7 @@
 ---
 ## HW5 前端畫面
 ### [HW5程式碼](https://github.com/eason-lin0213/data_structure/tree/main/EMO)
-### ![image]((https://github.com/user-attachments/assets/472c78ee-a66c-4f29-8831-cf9150bcca64)
+### ![image](https://github.com/user-attachments/assets/472c78ee-a66c-4f29-8831-cf9150bcca64)
 ### ![image](https://github.com/user-attachments/assets/08b5f797-185b-4300-91c5-611528b47113)
 )
 )
