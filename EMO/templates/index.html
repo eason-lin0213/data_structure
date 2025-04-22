@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <title>上傳籃球數據並查詢球員</title>
+</head>
+<body>
+    <h1>上傳 CSV 並查詢球員數據圖</h1>
+
+    <form method="POST" enctype="multipart/form-data">
+        <label>上傳你的 basketball_stats.csv 檔案：</label><br>
+        <input type="file" name="csv_file">
+        <button type="submit">上傳</button>
+    </form>
+
+    {% if success %}
+        <p style="color: green;">{{ success }}</p>
+    {% endif %}
+    {% if error %}
+        <p style="color: red;">{{ error }}</p>
+    {% endif %}
+
+    {% if success or df %}
+    <hr>
+    <form method="POST">
+        <label>輸入球員名稱：</label><br>
+        <input type="text" name="player_name" value="{{ player_name }}">
+        <button type="submit">查詢球員圖表</button>
+    </form>
+    {% endif %}
+
+    {% if image_url %}
+        <h3>圖表結果：</h3>
+        <img src="{{ image_url }}" alt="球員圖表">
+    {% endif %}
+</body>
+</html>
